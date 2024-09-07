@@ -1,0 +1,19 @@
+*{
+    margin:0;
+    padding:0;
+}
+.mysec{
+    width:100%;
+    padding-top:120px;
+    display: flex;
+}
+.div_one{
+    width: 50%;
+    background-color:aqua;
+    margin-left: 30px;
+    padding-left:40px;
+}
+.div_two{
+    width: 50%;
+    background-color: grey;
+}
